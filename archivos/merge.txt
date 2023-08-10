@@ -1,3 +1,5 @@
 Juan Carlos Largo
 19
 Aspiro a aprender acerca de la programacion orientada a objetos, aprender a trabajar en equipo y desarrollar habilidades y conocimientos que me serviran en un futuro
+Cuando creamos o tenemos una carpeta vacia git no la toma en cuenta para el commit, asi que al crear la carpeta "archivos" anteriormente no dejaba hacer el commit pq estaba vacia
+Es importante ser cuidadoso ya que puede generar conflictos, errores o problemas al intentar hacer commit al repositorio
