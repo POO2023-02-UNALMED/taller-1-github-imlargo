@@ -1,0 +1,1 @@
+Cuando creamos o tenemos una carpeta vacia git no la toma en cuenta para el commit, asi que al crear la carpeta "archivos" anteriormente no dejaba hacer el commit pq estaba vacia
